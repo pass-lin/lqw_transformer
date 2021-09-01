@@ -1,4 +1,5 @@
 # lqw_transformer
+安装方法pip install lqw_transformer
 基于tf2.0实现的transformer
 想要创建一个transformer encoder只需要从models中import EncodeLayer
 随后
