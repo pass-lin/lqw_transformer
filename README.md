@@ -83,4 +83,4 @@ output=keras.layers.Dense(cn_vocab_len,activation=keras.activations.softmax)(out
 model=keras.models.Model([inputs_en,inputs_cn],output)
 ```
 
-有bug可以通过邮箱2022845866@qq.com或者对应的qq联系我
+有bug或者疑问可以通过邮箱2022845866@qq.com或者对应的qq联系我
