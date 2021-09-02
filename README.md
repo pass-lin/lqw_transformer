@@ -2,6 +2,7 @@
 笔者基于tf.keras所实现的transformer及其变体
 
 以后笔者对什么轮子感兴趣复现了其keras版也会在该库更新。
+通过pip install lqw_transformer安装。
 
 ###### layers.py
 
